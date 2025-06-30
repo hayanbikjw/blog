@@ -6,7 +6,7 @@ image: 'https://blogimage001.blob.core.windows.net/pictures/bic-busan-2024.webp'
 tags: [회고]
 category: '연말회고'
 draft: false 
-lang: 'ko'
+lang: ''
 ---
 _<p align="center">동아리 사람들과 BIC 방문 전날 부산역에서 </p>_
 

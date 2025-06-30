@@ -6,7 +6,7 @@ image: ''
 tags: [CG, 수학, 과제]
 category: '대학'
 draft: false 
-lang: 'ko'
+lang: ''
 ---
 
 :::note[들어가기 전에]  

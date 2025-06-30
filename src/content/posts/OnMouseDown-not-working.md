@@ -6,7 +6,7 @@ image: ''
 tags: [C#, Unity]
 category: 'Unity'
 draft: false 
-lang: 'ko'
+lang: ''
 ---
 
 ### 왜 안됨?

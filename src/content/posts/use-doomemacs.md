@@ -6,7 +6,7 @@ image: ''
 tags: [emacs]
 category: '이맥스'
 draft: false
-language: 'ko'
+language: ''
 ---
 
 ## 그래! Emacs를 써보자!

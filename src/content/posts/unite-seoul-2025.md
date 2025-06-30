@@ -6,7 +6,7 @@ image: 'https://blogimage001.blob.core.windows.net/pictures/unite-seoul-entry.we
 tags: ['Unite Seoul']
 category: '견문록'
 draft: false 
-lang: 'ko'
+lang: ''
 ---
 
 ## 6년 만에 열린 개발자들의 축제!

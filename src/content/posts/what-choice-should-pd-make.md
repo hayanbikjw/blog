@@ -6,7 +6,7 @@ image: "https://blogimage001.blob.core.windows.net/pictures/igc2024-cover.webp"
 tags: [IGC]
 category: '견문록'
 draft: false 
-language: 'ko'
+language: ''
 ---
 ## 서문
 지난 토요일(7일), igc2024 강연에 다녀왔다.  
