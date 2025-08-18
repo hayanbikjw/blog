@@ -24,25 +24,25 @@ lang: ''
 ---  
 발표일에도 합불 연락이 오지 않아 주최 측에 메일을 넣었고, 25일에 해당 메일의 답신을 받았다.
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-기한연장-메일.png" width="60%">
+<img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-기한연장-메일.png" width="60%">
 
 제출한 기획서가 개차반이었기 때문에 30일까지, 5일간 퀄리티를 올려 다시 제출하기로 했다.  
 혼자서 기획서를 만들 때 어려움이 많았다. 그래서 이번에는 혼자 하지 않고 학교 선배를 꼬셔서 같이 하기로 했다.  
 제출할 때가 되서는 선배가 힘써준 덕에 게임 기획서 같은 기획서가 만들어졌다. 
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-참여-카톡.webp" width="55%">
+<img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-참여-카톡.webp" width="55%">
 
 ## 예선 통과
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-예선-통과-메일.webp" width="60%">  
+<img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-예선-통과-메일.webp" width="60%">  
 
 _앗싸_
 
 11월 10일. 예선 통과 메일을 받았다. 이제 12월 3일(일)까지 중간 결과 제출을, 12월 17일(일)까지 최종 결과를 제출해야 한다. 
 
 <div style="display: flex; justify-content: space-evenly">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-기획서1.webp" width="47%">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-기획서2.webp" width="47%">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-기획서1.webp" width="47%">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-기획서2.webp" width="47%">
 </div>
 
 우리는 온라인 게임을 만든다. 네트워크는 [뒤끝](https://backnd.com/ko/) 게임 서버를 이용하기로 했다. 당시 나는 뒤끝은 써본 적이 없었고, 대신 [포톤](https://www.photonengine.com/ko-kr/pun) 엔진을 사용해봤다.  
@@ -56,7 +56,7 @@ _앗싸_
 
 ## 중간 결과 제출
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-중간-진행-상황.webp" width="80%">
+<img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-중간-진행-상황.webp" width="80%">
 
 어찌저찌 12월이 찾아왔다. 중간제출 때까지 매치메이킹해서 전투를 치를 수는 있게 만들었다. 
 
@@ -72,7 +72,7 @@ _앗싸_
 
 제출까지 이 심각한 결함을 잡지 못했다. 이거 아니어도 문제가 많았기 때문에;; (아..)
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-제출-전날.webp">  
+<img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-제출-전날.webp">  
 
 _마지막 날 카톡으로 빌드 파일 보내고 테스트하고 버그 나면 수정해서 다시 보내고를 반복..._
 
@@ -81,8 +81,8 @@ _마지막 날 카톡으로 빌드 파일 보내고 테스트하고 버그 나�
 제출하고 바로 다음 날 19일(화)에 발표를 하러 대구로 내려갔다. 
 
 <div style="display: flex; justify-content: space-evenly">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/동대구역.webp" width="47%">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/대구콘텐츠비즈니스센터1.webp" width="47%">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/동대구역.webp" width="47%">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구콘텐츠비즈니스센터1.webp" width="47%">
 </div>
 
 다른 팀 발표도 보고 싶었지만, 별도 공간에서 대기하다가 우리 순서가 될 때만 발표장에 들어갈 수 있었기 때문에 다른 팀이 무슨 내용 발표했는지는 볼 수가 없었다. 아쉬운 부분.  
@@ -90,7 +90,7 @@ _마지막 날 카톡으로 빌드 파일 보내고 테스트하고 버그 나�
 
 기왕 대구까지 내려온 김에 저녁까지 있었다. 동대구역 근처에서 뭉티기를 먹었다. 
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-뭉티기.webp" width="45%">
+<img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-뭉티기.webp" width="45%">
 
 완전 술상이었는데 정작 내가 술을 안 마셔서 그냥 쩝쩝 먹기만.  
 발표 잘 했는지 안 했는지가 계속 신경쓰여서 먹는 데 집중을 못 하겠다.. 
@@ -105,9 +105,9 @@ _마지막 날 카톡으로 빌드 파일 보내고 테스트하고 버그 나�
 수상했으니까!! q(≧▽≦q) 
 
 <div style="display: flex; justify-content: space-evenly">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-시상식.webp" width="31%">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-상장2.webp" width="31%">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/대구엔젤-상장1.webp" width="31%">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-시상식.webp" width="31%" style="object-fit: cover">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-상장2.webp" width="31%" style="object-fit: cover">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/daegu-angel/대구엔젤-상장1.webp" width="31%" style="object-fit: cover">
 </div>
 
 **대구 X 엔젤 인디게임 페스티벌 끝!**
