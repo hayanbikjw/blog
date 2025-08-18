@@ -5,7 +5,7 @@ description: '상하이 놀러가서 오따꾸짓 하기'
 image: ''
 tags: [여행]
 category: ''
-draft: true 
+draft: false 
 lang: ''
 ---
 
