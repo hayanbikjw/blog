@@ -99,7 +99,7 @@ B1F~6F 건물 전층
 
 <div style="display: flex; justify-content: space-evenly">
     <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department.webp" width="47%">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department-capcom-store.webp width="47%">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department-capcom-store.webp" width="47%">
 </div>
 
 요래 생긴 백화점에 
