@@ -1,10 +1,10 @@
 ---
-title: "교환학생 준비 일지 1: 지원"
+title: "교환학생 준비 일지 1: 국제교류학생 지원 허가"
 published: 2026-01-09
-description: '국제교류학생 지원'
+description: '1. 국제교류학생 지원 허가'
 image: ''
-tags: [교환학생, 일지]
-category: '대학/교환학생'
+tags: [교환학생, 대학, 일지]
+category: '교환학생'
 draft: false
 lang: ''
 ---
