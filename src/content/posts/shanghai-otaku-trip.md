@@ -98,15 +98,15 @@ B1F~6F 건물 전층
 대형 백화점. 백화점 전층이 그런 건 아니고 일부 층에 오타쿠 굿즈를 파는 상점이 입점해있다. 그냥 잡다하게 있다. 블루 아카이브, T1 과 같이 한국 장르가 있는가 하면 캡콤 공식스토어도 입점해있다. 
 
 <div style="display: flex; justify-content: space-evenly">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department.webp" width="47%">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department-capcom-store.webp" width="47%">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department.webp" width="47%"  style="object-fit: contain">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department-blue-archive.webp" width="47%" style="object-fit: contain">
 </div>
 
 요래 생긴 백화점에 
 
 <div style="display: flex; justify-content: space-evenly">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department-blue-archive.webp" width="47%">
-    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-hatsune-miku.webp" width="47%" style="object-fit: cover">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-department-capcom-store.webp" width="47%" style="object-fit: contain">
+    <img src="https://blogimage001.blob.core.windows.net/pictures/shanghai-otaku-trip/shanghai-no1-hatsune-miku.webp" width="47%" style="object-fit: contain">
 </div>
 
 요런 것들이 잔뜩 있다. 
