@@ -117,17 +117,19 @@ JASSO 장학금에 관련된 서류입니다. 잘 읽어보시면 **"学部へ�
 
 ### 6. 성적증명서
 
-<img src="https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-9/36546663_1813372712076688_4512262275758817280_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bclssRFqOBoQ7kNvwFa9jT-&_nc_oc=Adk4rv4Sl82WN59jVog-bX53snx6LPOv3mqwIY4UsrLLOnykG5kHATwPMW5LLswNJ2A&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=fgFJcEq0vHG6sqapS86tNA&oh=00_AfrGt8YLb54AtnupxzeoTC-Z2h5G8GajVexEgp9y3EBvww&oe=69987895" width="35%">
-
-출처: [KT&G 상상Univ (facebook.com)](https://www.facebook.com/ktngsangsanguniv/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%EB%82%B4%ED%95%99%EC%A0%90%EB%A7%90%EC%9E%87%EB%AA%BB-%EC%83%81%EC%83%81%ED%88%B0%EB%82%B4-%ED%95%99%EC%A0%90-%EB%88%88-%EA%B0%90%EC%95%84%EC%9D%B4%EB%8C%80%EB%A1%9C-2%ED%95%99%EA%B8%B0%EC%97%90-%EC%98%AC%EC%9D%B8%ED%95%A8%EB%84%88%EC%9D%98-%ED%95%99%EC%A0%90%EC%9D%84-%EC%9D%91%EC%9B%90%ED%95%B4/1813373102076649/)
+<figure>
+  <img src="https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-9/36546663_1813372712076688_4512262275758817280_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bclssRFqOBoQ7kNvwFa9jT-&_nc_oc=Adk4rv4Sl82WN59jVog-bX53snx6LPOv3mqwIY4UsrLLOnykG5kHATwPMW5LLswNJ2A&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=fgFJcEq0vHG6sqapS86tNA&oh=00_AfrGt8YLb54AtnupxzeoTC-Z2h5G8GajVexEgp9y3EBvww&oe=69987895" width="35%" style="min-width: 180px;">
+  <figcaption>KT&G 상상Univ facebook</figcaption>
+</figure>
 
 ㅎㅎ;;
 
 ### 7. 일본어능력증명서 사본
 
-<img src="https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-9/36546663_1813372712076688_4512262275758817280_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bclssRFqOBoQ7kNvwFa9jT-&_nc_oc=Adk4rv4Sl82WN59jVog-bX53snx6LPOv3mqwIY4UsrLLOnykG5kHATwPMW5LLswNJ2A&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=fgFJcEq0vHG6sqapS86tNA&oh=00_AfrGt8YLb54AtnupxzeoTC-Z2h5G8GajVexEgp9y3EBvww&oe=69987895" width="35%">
-
-출처: [KT&G 상상Univ (facebook.com)](https://www.facebook.com/ktngsangsanguniv/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%EB%82%B4%ED%95%99%EC%A0%90%EB%A7%90%EC%9E%87%EB%AA%BB-%EC%83%81%EC%83%81%ED%88%B0%EB%82%B4-%ED%95%99%EC%A0%90-%EB%88%88-%EA%B0%90%EC%95%84%EC%9D%B4%EB%8C%80%EB%A1%9C-2%ED%95%99%EA%B8%B0%EC%97%90-%EC%98%AC%EC%9D%B8%ED%95%A8%EB%84%88%EC%9D%98-%ED%95%99%EC%A0%90%EC%9D%84-%EC%9D%91%EC%9B%90%ED%95%B4/1813373102076649/)
+<figure>
+  <img src="https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-9/36546663_1813372712076688_4512262275758817280_n.png?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bclssRFqOBoQ7kNvwFa9jT-&_nc_oc=Adk4rv4Sl82WN59jVog-bX53snx6LPOv3mqwIY4UsrLLOnykG5kHATwPMW5LLswNJ2A&_nc_zt=23&_nc_ht=scontent-icn2-1.xx&_nc_gid=fgFJcEq0vHG6sqapS86tNA&oh=00_AfrGt8YLb54AtnupxzeoTC-Z2h5G8GajVexEgp9y3EBvww&oe=69987895" width="35%" style="min-width: 180px;">
+  <figcaption>KT&G 상상Univ facebook</figcaption>
+</figure>
 
 N2 턱걸이;;
 

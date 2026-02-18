@@ -33,9 +33,7 @@ lang: ''
 
 파견국가가 일본이 아니더라도 원본 서류를 몇 개를 들고가서 제출해야 하긴 합니다. 그런데 준비과정 중에 요청을 할 줄은 몰랐어서.. 일본의 다른 대학도 과정 중에도 원본을 요구하는 지는 모르겠습니다만 일단 신슈대학은 요청을 했습니다.  
 
-> "EMS 처음 보내봄"
-
-국내로는 종종 부쳐봤는데 살면서 해외로 부쳐보는 건 처음이네요. 
+EMS를 부쳐야 하는데 국내로는 종종 부쳐봤지만 해외로 부쳐보는 건 처음이네요. 
 
 [국제우편 요금표(ems.epost.go.kr)](https://ems.epost.go.kr/front.EmsDeliveryDelivery02.postal)
 
@@ -43,17 +41,17 @@ lang: ''
 
 특별청강학생 입학서류 때 제출했던 1~7번까지 모두 원본으로 보내면 됩니다. letter of request는 국제처에서 수령한 원본을 보내면 되고, 본인 사진의 경우에는 사진관에서 인화한 것이 있어서 그걸 동봉했습니다. 신청서나 이력서는 pdf로 있으니까 복사기로 사본 만들어놓을 것 정도?
 
-팁이라면, 국제우편스마트접수라고 해서 EMS 발송 시에 이용 가능한 비대면으로 운송장을 등록하는 서비스가 있습니다. 어차피 접수하려면 우체국을 가야 하지만 대면 접수에 비해 5%가 할인되므로 이용하면 매우 좋습니다 (1,000원 할인 받음) 
+팁이라면, 국제우편스마트접수라고 해서 EMS 발송 시에 이용 가능한 비대면(온라인)으로 운송장을 등록하는 서비스가 있습니다. 어차피 접수하려면 우체국을 가야 하지만 대면 접수에 비해 5%가 할인되므로 이용하면 매우 좋습니다 (덕분에 1,000원 할인 받음) 
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/ems-info.webp" width="90%" style="min-width: 360px;">
+<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/ems-info.webp" width="90%" style="min-width: 300px;">
 
-비대면 접수를 하면 배송지 정보 외에도 세관신고서를 작성해야 하는데요, 처음 봤을 때는 뭘 입력해야 하는지 몰라서 당황스러웠는데 지금은 겪고 다 아니까 적습니다. 내용물은 'documents for studying aboard', 금액은 입력 최소값인 1, 순중량은 a4 장수 * 10g으로 했습니다. 무게는 접수할 때 다시 측정하니까 비슷하게만 입력하면 됩니다. 
+비대면 접수를 하면 배송지 정보 외에도 세관신고서를 작성해야 하는데요, 처음 봤을 때는 뭘 입력해야 하는지 몰라서 당황스러웠는데 지금은 겪고 다 아니까 적습니다. 내용물은 'documents for studying aboard', 금액은 입력 최소값인 1 (0이 입력이 안 되어서 어떻게 해야하나 고민했음), 순중량은 a4 장수 x 10g으로 했습니다. 무게는 접수할 때 다시 측정하니까 비슷하게만 입력하면 됩니다. 
 
-집 근처 우편집중국에서 EMS를 부쳤습니다. 국제우편은 봉투가 다른 줄 모르고 그냥 "우편 부치려는데 우편봉투 하나 주시겠어요?"해서 봉투 하나 받고 서류 다 넣고 밀봉했는데 생각해보니까 이 봉투로 받아도 되나? 싶어서 그제서야 "저 혹시 국제우편인데.." 하니까 ems 전용 봉투로 바꿔주셨습니다. 접착 테이프 이미 다 떼버렸는데 봉투값 안 받고 그냥 바꿔주셔서 감사했습니다. 
+16일에 집 근처 우편집중국에서 EMS를 부쳤습니다. 국제우편은 봉투가 다른 줄 모르고 그냥 "우편 부치려는데 우편봉투 하나 주시겠어요?"해서 봉투 하나 받고 서류 다 넣고 밀봉했는데 생각해보니까 이 봉투로 받아도 되나? 싶어서 그제서야 "저 혹시 국제우편인데.." 하니까 ems 전용 봉투로 바꿔주셨습니다. 접착 테이프 이미 다 떼버렸는데 봉투값 안 받고 그냥 바꿔주셔서 감사했습니다. 
 
 EMS도 배송추적이 됩니다. 오오.. 비행기 탄다.
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/post.webp" width="70%" style="min-width: 360px;">
+<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/post.webp" width="70%" style="min-width: 300px;">
 
 20일 미배달 사유는 토요일에 배송 간 탓에 수취인 부재.. 뭐 16일 오후에 부쳐서 22일에 도착했으니 주말 빼면 대충 4일 걸린 셈이네요. 비싼만큼 빨리도 갑니다.
 
@@ -65,7 +63,7 @@ EMS도 배송추적이 됩니다. 오오.. 비행기 탄다.
 
 알파벳을 입력하면 전각으로 전부 변환해버리는 것이 좀 거슬리는 것만 빼면 인적사항이랑 지금까지 메일로 보냈던 것들을 다시 입력하는 것이니 어렵지 않습니다. 다만 준비해야 할 서류가 또 있습니다. 경비지변자(経費支弁者)가 본인이 아닌 제 아버지로 되어있기 때문에 저와 아버지의 관계를 증명해야 하는 서류를 준비해야 한답니다. 만약 일전에 제출한 통장의 명의가 저 자신이었다면 은행잔고증명서로 끝났겠지만 저는 그런 통장이 없기 때문에..
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/shorui.webp" width="80%" style="min-width: 360px;">
+<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/shorui.webp" width="80%" style="min-width: 30px;">
 
 그렇기 때문에 준비할 서류는 5가지입니다. 
 
@@ -79,7 +77,7 @@ EMS도 배송추적이 됩니다. 오오.. 비행기 탄다.
 
 이번은 새해를 껴서 그런가 기간을 1주일하고 조금 더 줘서 <u>1월 5일</u>까지 COE에 입력을 요청받았습니다. 그런데 문제가 하나 있었습니다. 제가 23일~31일까지 일본으로 여행을 가기 때문에 이 기간 동안은 준비를 할 수 없다는 문제죠.. 여행기간 빼고 주말 빼면 3일, 공휴일 빼면 2일이 한국에서 준비할 수 있는 기간입니다. 
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/talk.webp" width="55%" style="min-width: 360px;">
+<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/talk.webp" width="55%" style="min-width: 300px;">
 
 > 감사합니다. 
 
@@ -95,7 +93,7 @@ EMS도 배송추적이 됩니다. 오오.. 비행기 탄다.
 
 _글 쓰는 능력의 차이가 보입니다 흑_
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/coe.webp" width="70%" style="min-width: 360px;">
+<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/coe.webp" width="70%" style="min-width: 300px;">
 
 COE는 제출하고 나면 수정할 수 없습니다. 위의 사진에서 status가 under examination인데 아직도 여기서 상태가 업데이트가 안 되었습니다. (2월 8일 기준) 2~3개월은 걸린다고 했지만 생각보다는 꽤 걸리네요. coe가 발급이 되어야 이걸 가지고 비자를 신청하는데 말이죠.. 
 
