@@ -5,7 +5,7 @@ description: '5. 기숙사 신청'
 image: ''
 tags: [교환학생, 대학, 일지]
 category: '교환학생'
-draft: true 
+draft: false 
 lang: ''
 ---
 
