@@ -63,7 +63,7 @@ EMS도 배송추적이 됩니다. 오오.. 비행기 탄다.
 
 알파벳을 입력하면 전각으로 전부 변환해버리는 것이 좀 거슬리는 것만 빼면 인적사항이랑 지금까지 메일로 보냈던 것들을 다시 입력하는 것이니 어렵지 않습니다. 다만 준비해야 할 서류가 또 있습니다. 경비지변자(経費支弁者)가 본인이 아닌 제 아버지로 되어있기 때문에 저와 아버지의 관계를 증명해야 하는 서류를 준비해야 한답니다. 만약 일전에 제출한 통장의 명의가 저 자신이었다면 은행잔고증명서로 끝났겠지만 저는 그런 통장이 없기 때문에..
 
-<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/shorui.webp" width="80%" style="min-width: 30px;">
+<img src="https://blogimage001.blob.core.windows.net/pictures/exchange-student-4/shorui.webp" width="80%" style="min-width: 300px;">
 
 그렇기 때문에 준비할 서류는 5가지입니다. 
 
