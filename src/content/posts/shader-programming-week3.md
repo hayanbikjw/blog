@@ -65,7 +65,7 @@ abs(3);
 ```
 ### 2. acos(s)
 아크코사인(arccosine) 값을 반환한다.  
-[-1, +1] 사이의 값을 입력받아 [0, $\pi$] 사이의 값을 반환. 즉, $\cos$ 값$\big(\frac{밑변}{빗변}\big)$의 값이 들어가면 라디안($\theta$) 값이 나온다.
+[-1, +1] 사이의 값을 입력받아 [0, $\pi$] 사이의 값을 반환. 즉, $\cos$ 값$\big(\frac{adjacent}{hypotenuse}\big)$의 값이 들어가면 라디안($\theta$) 값이 나온다.
 
 아래 예시는 acos 메소드로 출력한 결과이다.
 ```cs
@@ -98,7 +98,7 @@ bool any(bool4 a) {
 ```
 ### 5. asin(s)
 아크사인(arcsine) 값을 반환한다.  
-[-1, +1] 사이의 값을 입력받아 [$-\frac{\pi}{2}$, $\frac{\pi}{2}$] 사이의 값을 반환. 즉, $\sin$ 값$\big(\frac{높이}{빗변}\big)$의 값이 들어가면 라디안($\theta$) 값이 나온다.  
+[-1, +1] 사이의 값을 입력받아 [$-\frac{\pi}{2}$, $\frac{\pi}{2}$] 사이의 값을 반환. 즉, $\sin$ 값$\big(\frac{opposite}{hypotenuse}\big)$의 값이 들어가면 라디안($\theta$) 값이 나온다.  
 
 아래 예시는 asin 메소드로 출력한 결과이다.
 ```cs
@@ -107,7 +107,7 @@ asin(0.5);
 ```
 ### 6. atan(x)
 아크탄젠트(arctangent) 값을 반환한다.  
-[-$\infty$, +$\infty$] 사이의 값을 입력받아 [$-\frac{\pi}{2}$, $\frac{\pi}{2}$] 사이의 값을 반환. 즉, $\tan$ 값$\big(\frac{높이}{밑변}\big)$의 값이 들어가면 라디안($\theta$) 값이 나온다.  
+[-$\infty$, +$\infty$] 사이의 값을 입력받아 [$-\frac{\pi}{2}$, $\frac{\pi}{2}$] 사이의 값을 반환. 즉, $\tan$ 값$\big(\frac{opposite}{hypotenuse}\big)$의 값이 들어가면 라디안($\theta$) 값이 나온다.  
 비율을 인자로써 넣기 때문에 좌표평면에서 `x`가 0인 경우에는 사용할 수 없다. `y`를 0으로 나눌 수 없기 때문이다. 
 
 아래 예시는 atan 메소드로 출력한 결과이다.
@@ -203,8 +203,10 @@ cosh(0);  // 쌍곡코사인 함수의 그래프는 (0, 1)을 지난다.
 
 아래는 외적에 관한 애니메이션이다. 
 
-![Cross product.gif](https://upload.wikimedia.org/wikipedia/commons/6/6e/Cross_product.gif)  
-[Cross product](https://en.wikipedia.org/wiki/Atan2#/media/File:Atan2_differs_from_arctan.png) by [Lucas Vieira](https://commons.wikimedia.org/wiki/User:LucasVB), Public Domain
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Cross_product.gif" alt="외적 애니메이션" style="min-width: 250px;">
+  <figcaption><a href="https://en.wikipedia.org/wiki/Atan2#/media/File:Atan2_differs_from_arctan.png">Cross product</a> by <a href="https://commons.wikimedia.org/wiki/User:LucasVB">Lucas Vieira</a>, Public Domain</figcaption>
+</figure>
 
 외적의 결과로 만들어지는 벡터는 a와 b와 직교한다. 오른손 법칙(반시계방향)에 따라 방향성이 결정된다. 외적 연산에서는 교환법칙이 성립하지 않는다. ( $ a \times b \neq b \times a $ )  
 즉, 인자의 a와 b의 순서를 바꾸면 다른 값이 나온다. 
