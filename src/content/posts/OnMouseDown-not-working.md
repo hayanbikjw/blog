@@ -36,3 +36,7 @@ OnMouse 시리즈(?)에는 여러가지가 정의된 메서드가 있으나, 임
 단순히 내 유니티 프로젝트가 6000.1을 이용하고 있어서 기본적으로 구 인풋을 꺼놓았기 때문에 발생한 이슈였다. 
 
 Project Settings > Player > Other Settings에서 Input Handling을 'Both'로 바꾸어주면 인식을 할 것이다. 
+
+### 26-03-22 수정
+
+Unity 6.4부터 Input System에서도 OnMouse~~를 쓸 수 있도록 통합되었다 한다. 앞으로 이 같은 사유로 동일한 문제가 발생하지 않을 것으로 보인다. 
