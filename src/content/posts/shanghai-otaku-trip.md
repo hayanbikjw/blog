@@ -4,7 +4,7 @@ published: 2025-08-18
 description: '상하이 놀러가서 오따꾸짓 하기'
 image: ''
 tags: [여행]
-category: ''
+category: '여행'
 draft: false 
 lang: ''
 ---
