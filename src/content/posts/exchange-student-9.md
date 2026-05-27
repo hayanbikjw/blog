@@ -226,7 +226,10 @@ _ようこそ金沢へ_ (어서오세요 가나자와에)
 
 숙소는 [The pocket hotel by sotetsu](https://sotetsu-hotels.com/pocket-hotel/)였는데, 꽤 만족스러웠습니다! 나중에 도쿄 갔을 때 같은 브랜드의 호텔이 있나 찾아봤을 정도였는데 교토에만 있는 호텔 브랜드여서 아쉽..
 
-<img src="https://sotetsu-hotels.com/pocket-hotel/datas/cache/images/2025/05/30/900x595_ea1e9d427fb5664c32c517a73e421e58_5cc794a9fddee176b40a67f5a35b38c6269c4c90.jpg" width="60%" alt="방 사진" style="min-width: 250px;">
+<figure>
+  <img src="https://sotetsu-hotels.com/pocket-hotel/datas/cache/images/2025/05/30/900x595_ea1e9d427fb5664c32c517a73e421e58_5cc794a9fddee176b40a67f5a35b38c6269c4c90.jpg" width="60%" alt="방 사진" style="min-width: 250px;">
+  <figcaption>호텔 공식 홈페이지에서 제공한 방 사진</figcaption>
+</figure>
 
 방이 넓직한 것은 아니지만 하룻밤만 슥 자고 가기에는 충분합니다. 샤워실도 깔끔하니 더욱 만족스럽습니다.   
 
